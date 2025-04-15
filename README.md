@@ -13,7 +13,7 @@ A responsive e-commerce product gallery built with React and styled using Tailwi
 ## Screenshots
 
 ![Product Gallery](screenshots/product-gallery.png)
-![Product Detail Modal](screenshots/product-modal.png)
+![Product cart](screenshots/product-cart.png)
 
 ## Installation
 
